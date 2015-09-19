@@ -1,0 +1,20 @@
+# Mobile Day Galicia 2015
+
+### El pegamento de las Apps con internet - Chema, [@dourbon](https://twitter.com/durbon)
+https://speakerdeck.com/durbon/el-pegamento-de-las-apps-con-internet?utm_content=buffer30be2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+### Polymer Prototype - Ismael Faro
+https://drive.google.com/file/d/0B0iD08c3YYStTHV3cmptT3hzczQ/view
+
+### Limpiando espero la arquitectura que yo quiero - Jose Manuel Pereira
+http://es.slideshare.net/jmpereirag/limpiando-espero-la-arquitectura-que-yo-quiero
+
+### Mobile Web, Tricks & Tools - Victor Sánchez
+_Slides not available yet_
+
+### Real Firebase Time - David Valiñas
+_Slides not available yet_
+
+### The Android Gunslinger - Saúl Díaz
+_Slides not available yet_
+
