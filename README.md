@@ -15,6 +15,6 @@ _Slides not available yet_
 ### Real Firebase Time - David Valiñas
 _Slides not available yet_
 
-### The Android Gunslinger - Saúl Díaz
-_Slides not available yet_
+### The ~~Android~~ Gunslinger - Saúl Díaz
+http://es.slideshare.net/Salgonzez/the-android-gunslinger
 
