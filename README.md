@@ -13,7 +13,7 @@ http://es.slideshare.net/jmpereirag/limpiando-espero-la-arquitectura-que-yo-quie
 _Slides not available yet_
 
 ### Real Firebase Time - David Valiñas
-_Slides not available yet_
+https://drive.google.com/folderview?id=0B_SXDQ19wP4Qekd5MUVDeWl0eEE&usp=sharing
 
 ### The ~~Android~~ Gunslinger - Saúl Díaz
 http://es.slideshare.net/Salgonzez/the-android-gunslinger
